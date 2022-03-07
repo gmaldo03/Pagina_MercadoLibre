@@ -1,0 +1,147 @@
+body{
+    font-size: 20px;
+    margin: 0;
+    background-color: #ebebeb;
+}
+
+
+header{
+    background-color: #fff159;
+    border: 0;
+    width: 100%;
+    height: 48p
+}
+
+.busqueda img{
+    width: 44px;
+    height: 32px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.search{
+    width: 598px;
+    height: 39px;
+    margin-top: 10px;
+    padding-left: 15px;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: 0px 1px 2px 0px #00000052;
+}
+
+.busqueda{
+    height: 60px;
+    width: 100%;
+    padding-left: 150px;
+    background-color: #fff159;
+    display: flex;
+    flex-direction: row;
+
+}
+.nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+.ubicacion{
+    width: 233px;
+  height: 40px;
+  padding-left: 150px;
+  display: flex;
+  flex-direction: row;
+}
+
+.ubicacion img {
+    width: 30px;
+    height: 30px;
+    
+  }
+  
+  .ubicacion p {
+    width: 100px;
+    font-size: 12px;
+  }
+
+.urls{
+    width: 650px;
+    padding-left: 30px;
+
+
+}
+
+.urls li{
+
+    list-style: none;
+    display: block;
+
+
+}
+
+.urls li a {
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+    float: left;
+    padding-left: 15px;
+    text-decoration: none;
+  }
+  
+  .urls li a:hover {
+    opacity: 0.9;
+  }
+
+.cuenta{
+    width: 550px;
+    padding-left: 20px;
+}  
+
+.cuenta li{
+    list-style: none;
+    display: block;
+
+}
+
+.cuenta li a{
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+    float: left;
+    padding-left: 15px;
+    text-decoration: none;
+}
+
+.pagos{
+    width: 1268.8px;
+    height: 170px;
+    padding:20px 8px ;
+    padding-left: 70px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-left: 120px;
+    border-radius: 20px;
+}
+.pagos a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.ofertas{
+    margin-top: 50px;
+    margin-left: 130px;
+    height: 460px;
+    width: 1063px;
+
+}
+
+.col1{
+    padding-left: 12px;
+    margin-left: 20px;
+    width: 244px; 
+    max-width: 250px; 
+    background-color: rgb(255, 255, 255)
+}
+
+
+
+
+
